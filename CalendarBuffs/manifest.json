@@ -1,0 +1,10 @@
+{
+  "Name": "Calendar Buffs",
+  "Author": "John Peters (you know, the farmer?)",
+  "Version": "1.0.0",
+  "Description": "Displays buff icons to remind you of all-day events.",
+  "UniqueID": "JohnPeters.CalendarBuffs",
+  "EntryDll": "CalendarBuffs.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": [ "Nexus:???" ]
+}

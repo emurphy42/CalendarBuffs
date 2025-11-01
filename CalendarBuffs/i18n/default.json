@@ -1,0 +1,10 @@
+{
+  // displayed after "Source:"
+  "Calendar": "Calendar",
+
+  // name of "The bookseller is in town today" buff
+  "Bookseller": "Bookseller",
+
+  // place and time of festival
+  "FestivalPlaceTime": "{{Place}} from {{StartTime}} to {{EndTime}}"
+}
